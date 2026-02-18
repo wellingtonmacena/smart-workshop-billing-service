@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SmartWorkshop.Billing.Api/SmartWorkshop.Billing.Api.csproj" />
+  <Project Path="SmartWorkshop.Billing.Application/SmartWorkshop.Billing.Application.csproj" />
+  <Project Path="SmartWorkshop.Billing.Domain/SmartWorkshop.Billing.Domain.csproj" />
+  <Project Path="SmartWorkshop.Billing.Infrastructure/SmartWorkshop.Billing.Infrastructure.csproj" />
+</Solution>

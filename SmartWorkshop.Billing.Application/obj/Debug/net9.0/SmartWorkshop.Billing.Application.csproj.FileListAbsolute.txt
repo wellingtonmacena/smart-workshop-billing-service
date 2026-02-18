@@ -1,0 +1,11 @@
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\bin\Debug\net9.0\SmartWorkshop.Billing.Application.deps.json
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\bin\Debug\net9.0\SmartWorkshop.Billing.Application.dll
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\bin\Debug\net9.0\SmartWorkshop.Billing.Application.pdb
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\SmartWorkshop.Billing.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\SmartWorkshop.Billing.Application.AssemblyInfoInputs.cache
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\SmartWorkshop.Billing.Application.AssemblyInfo.cs
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\SmartWorkshop.Billing.Application.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\SmartWorkshop.Billing.Application.dll
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\refint\SmartWorkshop.Billing.Application.dll
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\SmartWorkshop.Billing.Application.pdb
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\ref\SmartWorkshop.Billing.Application.dll

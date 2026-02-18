@@ -1,0 +1,6 @@
+@SmartWorkshop.Billing.Api_HostAddress = http://localhost:5197
+
+GET {{SmartWorkshop.Billing.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
