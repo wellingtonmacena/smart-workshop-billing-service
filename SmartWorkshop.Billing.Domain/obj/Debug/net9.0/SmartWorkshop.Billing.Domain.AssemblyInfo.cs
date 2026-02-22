@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartWorkshop.Billing.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a91cc5c30ed64f6b324b1d391aaf14f0a88ce5f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartWorkshop.Billing.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartWorkshop.Billing.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,4 @@ C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billi
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\refint\SmartWorkshop.Billing.Application.dll
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\SmartWorkshop.Billing.Application.pdb
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\ref\SmartWorkshop.Billing.Application.dll
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Application\obj\Debug\net9.0\SmartWorkshop.Billing.Application.sourcelink.json

@@ -2,3 +2,4 @@ C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billi
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Domain\obj\Debug\net9.0\SmartWorkshop.Billing.Domain.AssemblyInfoInputs.cache
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Domain\obj\Debug\net9.0\SmartWorkshop.Billing.Domain.AssemblyInfo.cs
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Domain\obj\Debug\net9.0\SmartWorkshop.Billing.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Domain\obj\Debug\net9.0\SmartWorkshop.Billing.Domain.sourcelink.json

@@ -6,3 +6,4 @@ C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billi
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Api\obj\Debug\net9.0\SmartWorkshop.Billing.Api.csproj.CoreCompileInputs.cache
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Api\obj\Debug\net9.0\SmartWorkshop.Billing.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Api\obj\Debug\net9.0\SmartWorkshop.Billing.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wellington\OneDrive\Desktop\github\POS-FIAP-TECH04\smart-workshop-billing-service\SmartWorkshop.Billing.Api\obj\Debug\net9.0\SmartWorkshop.Billing.Api.sourcelink.json
